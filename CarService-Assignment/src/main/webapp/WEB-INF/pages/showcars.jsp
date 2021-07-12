@@ -24,7 +24,7 @@
 						font-size: 50px;
 						display:flex;
 						justify-content:center;
-						color:chartreuse;
+						color:yellow;
 						animation: move 1s infinite ease-in-out;
 					}
 				table

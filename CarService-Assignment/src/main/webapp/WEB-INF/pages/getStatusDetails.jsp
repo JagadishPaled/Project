@@ -26,14 +26,14 @@
 			}
 		table{
 				font-size: 40px;
-				border:2px solid blue;
+				border:2px solid pink;
 				border-collapse:collapse;
 				margin-left:auto;
 				margin-right:auto;
-				background-color: rgb(211, 189, 181);
+				background-color: rgb(211, 179, 181);
 		}
 		tr,th,td{
-					border:2px solid blue;
+					border:2px solid purple;
 				}
 		@keyframes move {
 		    0% {

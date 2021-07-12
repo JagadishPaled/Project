@@ -7,31 +7,31 @@
 		<style>
 		span
 				{
-					    font-size: 25px;
+					    font-size: 20px;
 					    display: flex;
 					    justify-content: flex-end;
 					    margin: 42px;
 				}
 			A 	{
 					text-decoration: none;
-					margin: 9px;
-					padding: 7px;
+					margin: 10px;
+					padding: 6px;
 				}
 		h1
 				{
 					font-size: 50px;
 					display:flex;
 					justify-content:center;
-					color:orange;
+					color:red;
 					animation: move 1s infinite ease-in-out;
 				}
 		table{
 				font-size: 40px;
-				border:2px solid blue;
+				border:2px solid green;
 				border-collapse:collapse;
 				margin-left:auto;
 				margin-right:auto;
-				background-color: rgb(211, 189, 181);
+				background-color: rgb(231, 184, 121);
 		}
 		tr,th,td{
 					border:2px solid blue;
@@ -58,11 +58,11 @@
 		<h1>Available Brand Details</h1>
 		<table>
 			<tr>
-				<th>Car_Model</th>
+				<th>Car_Model_Name</th>
 				<th>Date</th>
-				<th>Kilometer</th>
-				<th>Car_Brand</th>
-				<th>Status</th>
+				<th>Kilometers</th>
+				<th>Car_Brand_Name</th>
+				<th>Status_of_Car</th>
 			</tr>
 			<c:forEach items="${list}" var="eachItem">
 			<tr>

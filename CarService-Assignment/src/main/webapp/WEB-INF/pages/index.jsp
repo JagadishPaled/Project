@@ -9,9 +9,9 @@
 		<style type="text/css">
 			button
 				{
-					border-radius: 18px;
-					font-size:26px;
-					margin: 4px;
+					border-radius: 19px;
+					font-size:25px;
+					margin: 5px;
 				}
 			div
 				{

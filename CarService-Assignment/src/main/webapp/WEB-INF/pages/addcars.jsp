@@ -10,10 +10,10 @@
 		<style type="text/css">
 			p
 				{
-					font-size: 35px;
+					font-size: 40px;
 					display: flex;
 					justify-content: center;
-					color:blue;
+					color:green;
 					animation: move 1s infinite ease-in-out;
 				}
 			span
@@ -25,8 +25,8 @@
 				}
 			A 	{
 					text-decoration: none;
-					margin: 9px;
-					padding: 7px;
+					margin: 10px;
+					padding: 6px;
 				}
 			input 
 				{
@@ -34,7 +34,7 @@
 				  border-radius: 12px;
 				  box-sizing: border-box;
 				  display: inline-block;
-				  border: 1px solid purple;
+				  border: 1px solid blue;
 				  padding: 12px 2px;
 				  margin: 8px 0;
 				}
@@ -57,7 +57,7 @@
 				}
 			label 
 				{
-		  			padding: 8px 8px;
+		  			padding: 10px 10px;
 				}
 				@keyframes move {
 		    					0% {

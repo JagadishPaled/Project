@@ -13,7 +13,7 @@
 						font-size:50px;
 						display: flex;
 						justify-content: center;
-						color:rgba(168, 14, 240, 0.842);
+						color:rgba(168, 18, 240, 0.842);
 						animation: move 1s infinite ease-in-out;
 					}
 				div
@@ -25,11 +25,11 @@
 					{
 						background-color:aquamarine;
 						font-size: 17px;
-						margin: 4px;
+						margin: 6px;
 					}
 				select,input
 					{
-						font-size: 23px;
+						font-size: 25px;
 						border-radius: 28px;
 					}
 				@keyframes move {
